@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<database-connections>
+  <database-connection name="Master" >Data Source=dev45\dev45;Initial Catalog=southampton-upgrade_master;User ID=sa;Password=!QAZ2wsx;</database-connection>
+  <database-connection name="Mock">  Data Source=dev45\dev45;Initial Catalog=southampton-upgrade_master_MockAPIDB;User ID=sa;Password=!QAZ2wsx;enlist=false;</database-connection>
+</database-connections>
